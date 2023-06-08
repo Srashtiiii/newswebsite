@@ -195,6 +195,7 @@ function displayNews() {
 
         var card = document.createElement('div');
         card.className = "p-2";
+        //yaha se code kre
 
         var image = document.createElement('img');
         image.setAttribute("height","matchparent");
